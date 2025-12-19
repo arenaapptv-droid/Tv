@@ -1,2 +1,4 @@
-#EXTINF:-1 tvg-ID="beinsportsmax1.qa" tvg-name="BeIN Sports Max 1 4K (H265)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa.png" group-title="BeIN Sports Max",BeIN Sports Max 1 4K (H264)
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080
 http://splustv.me:80/live/mohamed6014s/ry38bfn37k/100956.m3u8
