@@ -1,10 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080
-http://splustv.me:80/live/same3253/sat22255/100956.m3u8
-
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/59690.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1280x720
-http://splustv.me:80/live/same3253/sat22255/65760.m3u8
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/59702.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=854x480
-http://splustv.me:80/live/same3253/sat22255/100944.m3u8
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/59708.m3u8
